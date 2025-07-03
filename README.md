@@ -1,7 +1,3 @@
-<!-- Typing 动态标题 -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Ma+Shan+Zheng&pause=1000&color=FF69B4&width=600&lines=愿与你纵横七海，请带我阅遍千秋;超高校级的游戏玩家" alt="typing" />
-</p>
 
 <!-- 头像和简介 -->
 <p align="center">
